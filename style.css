@@ -1,0 +1,196 @@
+* {
+  margin: 0;
+}
+.opshi {
+  width: 100%;
+  display: flex;
+  margin-top: 80px;
+}
+.left {
+  width: 20%;
+  padding-left: 25%;
+}
+.right {
+  width: 65%;
+  
+    padding-right: 30%;
+}
+#img {
+  width: 100%;
+  border-radius: 50%;
+}
+h3 {
+  margin-right: 20px;
+  font-size: 2em;
+}
+button{
+    margin-left: 15px;
+}
+#border {
+
+  height: 70%;
+}
+p {
+  padding-top: 5%;
+  font-size: 1em;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  font-size: 1em;
+}
+i {
+  text-align: center;
+}
+#i {
+  padding-top: 8px;
+}
+.imeno {
+  display: flex;
+  padding-left: 45%;
+}
+.podpischik {
+  display: flex;
+  padding-left: 45%;
+}
+#p {
+  padding-left: 45px;
+  font-size: 1.2em;
+}
+.kurs {
+  padding-left: 45%;
+}
+h4 {
+  padding-top: 25px;
+}
+#o {
+  padding-top: 3px;
+  color: gray;
+}
+#s {
+  width: 6%;
+  margin-top: 2%;
+}
+.obuchat {
+  display: flex;
+}
+.uchit {
+  display: flex;
+}
+.log {
+  display: block;
+}
+.inten {
+  display: flex;
+}
+.cel {
+  display: flex;
+}
+.tel {
+  display: flex;
+}
+#sa {
+  font-size: 1.2em;
+  color: darkblue;
+}
+.istoriya{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 55px;
+  
+}
+.open{
+    display: block;
+   
+}
+#j{
+    width: 80px;
+    border-radius:50%;
+}
+.karta{
+    margin-left: 60px;
+}
+.mentors{
+    margin-left: 60px;
+}
+.techno{
+    margin-left: 60px;
+}
+.uchenik{
+    margin-left: 60px;
+}
+.vremya{
+    margin-left: 60px;
+}
+nav{
+    border-top: 1px solid gray;
+    width: 45%;
+    margin-left: 23%;
+    display: flex
+}
+.table{
+    display: flex;
+    margin-top: 15px;
+    font-size: 15px;
+}
+#r{
+    margin-top: 14px;
+    margin-left: 55%;
+}
+#f{
+    margin-top: 8px;
+}
+.play{
+    display: flex;
+    margin-top: 15px;
+    font-size: 15px;
+    margin-left: 15%;
+}
+.video{
+    display: flex;
+    margin-top: 15px;
+    font-size: 15px;
+    margin-left: 15%;
+}
+.contact{
+    display: flex;
+    margin-top: 15px;
+    font-size: 15px;
+    margin-left: 15%;
+}
+.images{
+    margin-left: 22%;
+    display: flex;
+}
+.surat1 img{
+    position: relative;
+}
+.icon{
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    color:white;
+    font-size: 1.5em;
+    z-index: -1;
+    display: flex;
+}
+i{
+    
+        font-size: 1.2em;
+        z-index: -1;
+        display: flex; 
+    
+}
+.surat1:hover .icon{
+    z-index: 1;
+}
+.surat1{
+    position: relative;
+   
+
+}
+.surat1:hover{
+opacity: 0.6;
+color: black;
+}
